@@ -6,7 +6,7 @@ estadístico a problemas de cadena de suministro.
 
 ## Qué resuelve
 Un jefe de operaciones necesita identificar cuellos de botella, 
-medir服务水平 (fill rate) y simular escenarios de demanda.
+medir el fill rate y simular escenarios de demanda.
 
 ## Datos
 Dataset sintético de pedidos, inventario y proveedores.
